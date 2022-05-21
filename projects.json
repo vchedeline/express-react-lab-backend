@@ -1,0 +1,14 @@
+[
+  {
+    "name": "My Yu-Gi-Oh Deck",
+    "live": "https://visionary-tulumba-09ca60.netlify.app/",
+    "git": "https://github.com/vchedeline/My_Yu-Gi-Oh_Deck",
+    "image": "https://i.imgur.com/SGDaBy1.png"
+  },
+  {
+    "name": "Cars4Life",
+    "live": "https://cv-sei-cars4life.herokuapp.com/",
+    "git": "https://github.com/vchedeline/Cars4Life",
+    "image": "https://i.imgur.com/8XLZq9z.png"
+  }
+]
